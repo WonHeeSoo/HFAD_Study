@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Game Engine Adviser</string>
+    <string name="find_game_engine">Find Game Engine!</string>
+    <string name="languages">No Languages Selected</string>
+    <string-array name="computer_languages">
+        <item>C++</item>
+        <item>C#</item>
+    </string-array>
 </resources>
