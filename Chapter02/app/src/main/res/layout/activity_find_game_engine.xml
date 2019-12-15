@@ -9,7 +9,7 @@
     tools:context="com.hfad.gameengineadviser.FindGameEngineActivity">
 
     <Spinner
-        android:id="@+id/color"
+        android:id="@+id/languages"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
@@ -27,7 +27,7 @@
         android:onClick="onClickFindGameEngine"/>
 
     <TextView
-        android:id="@+id/languages"
+        android:id="@+id/game_engines"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
